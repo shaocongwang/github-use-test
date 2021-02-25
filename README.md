@@ -1,2 +1,4 @@
 # github-use-test
-this repository was used to practice how to use github
+
+
+hi buddys this scentence was used to make a commit test !
